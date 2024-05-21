@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Tesleva Mariana</title>
+</head>
+<body>
+    <h1>Tesleva Mariana</h1>
+    
+    <button onclick="document.location='index2.html'">Сторінка 2 >></button>
+    <h2>ВОСЬМИЙ КЛАС</h2>
+    <header>Точка відліку. Початок незабутньої пригоди, що стане великою частиною мого недовгого життя.</header>
+    <img src="images\8\IMG_20240424_193346_224.jpg" width="600" height="380"/>
+    <img src="images\8\IMG-3dc822351473d9c46d1cb0b14b0f0be5-V.jpg" width="600" height="380">
+    <img src="images\8\IMG-7f0e522d1f0c049ca8fa2be68845a97e-V.jpg" width="600" height="380">
+</body>
